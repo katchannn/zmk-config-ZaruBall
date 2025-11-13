@@ -110,7 +110,7 @@
 &kp TAB         &kp Q   &kp W   &kp E         &kp R         &kp T                &none  &none  &none  &none                   &kp Y         &kp U   &kp I      &kp O    &kp P     &kp GRAVE
 &kp CLCK        &kp A   &kp S   &kp D         &kp F         &kp G   &kp MINUS    &none  &none  &none  &none    &kp LBKT       &kp H         &kp J   &kp K      &kp L    &kp SEMI  &kp SQT
 &kp LEFT_SHIFT  &kp Z   &kp X   &kp C         &kp V         &kp B   &kp EQUAL    &none  &none  &none  &none    &kp RBKT       &kp N         &kp M   &kp COMMA  &kp DOT  &kp FSLH  &kp BACKSLASH
-&kp LCTRL       &none           &kp LEFT_ALT  &kp LEFT_GUI  &td0    &kp SPACE                                  &kp BACKSPACE  &lt 2 ENTER                                         &mo 2
+&kp LCTRL       &none           &kp LEFT_ALT  &kp LEFT_GUI  &mo 3   &kp SPACE                                  &kp BACKSPACE  &lt 2 ENTER                                         &mo 2
             >;
         };
 
