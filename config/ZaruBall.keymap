@@ -113,6 +113,15 @@
 };
 
 / {
+    combos {
+        compatible = "zmk,combos";
+
+        lang {
+            bindings = <&kp LC(SPACE)>;
+            key-positions = <72 75>;
+        };
+    };
+
     keymap {
         compatible = "zmk,keymap";
 
